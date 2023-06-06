@@ -8,7 +8,6 @@
   "plugins": ["@typescript-eslint"],
   "rules": {
     "indent": ["error", 2],
-    "no-multiple-empty-lines": ["error", { "max": 1 }],
     "no-multi-spaces": "error",
     "no-trailing-spaces": "error",
     "no-irregular-whitespace": "error"
